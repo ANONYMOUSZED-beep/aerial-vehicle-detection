@@ -683,9 +683,8 @@ If you use this code in your research, please cite:
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: Arun
+- **Email**: atusarun@gmail.com
 - **Project Link**: [https://github.com/yourusername/aerial-vehicle-detection](https://github.com/yourusername/aerial-vehicle-detection)
 
 ---

@@ -1,0 +1,164 @@
+{
+  "video_path": "traffic_monitoring_system\\data\\temp\\uploaded_Cars Moving On Road Stock Footage - Free Download.mp4",
+  "total_frames": 716,
+  "frames_processed": 25,
+  "processing_errors": 0,
+  "total_vehicles_detected": 781,
+  "peak_traffic": 3,
+  "congestion_events": 0,
+  "processing_start": "2025-11-02T11:21:27.828652",
+  "frame_results": [
+    {
+      "frame_number": 0,
+      "timestamp": 0.0,
+      "vehicles": 2,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 29,
+      "timestamp": 0.9676333333333333,
+      "vehicles": 1,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 58,
+      "timestamp": 1.9352666666666667,
+      "vehicles": 0,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 87,
+      "timestamp": 2.9029000000000003,
+      "vehicles": 2,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 116,
+      "timestamp": 3.8705333333333334,
+      "vehicles": 12,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 145,
+      "timestamp": 4.838166666666667,
+      "vehicles": 11,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 174,
+      "timestamp": 5.8058000000000005,
+      "vehicles": 11,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 203,
+      "timestamp": 6.773433333333333,
+      "vehicles": 11,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 232,
+      "timestamp": 7.741066666666667,
+      "vehicles": 12,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 261,
+      "timestamp": 8.7087,
+      "vehicles": 12,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 290,
+      "timestamp": 9.676333333333334,
+      "vehicles": 11,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 319,
+      "timestamp": 10.643966666666667,
+      "vehicles": 11,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 348,
+      "timestamp": 11.611600000000001,
+      "vehicles": 15,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 377,
+      "timestamp": 12.579233333333333,
+      "vehicles": 15,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 406,
+      "timestamp": 13.546866666666666,
+      "vehicles": 33,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 435,
+      "timestamp": 14.5145,
+      "vehicles": 57,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 464,
+      "timestamp": 15.482133333333334,
+      "vehicles": 70,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 493,
+      "timestamp": 16.449766666666665,
+      "vehicles": 80,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 522,
+      "timestamp": 17.4174,
+      "vehicles": 70,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 551,
+      "timestamp": 18.385033333333332,
+      "vehicles": 58,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 580,
+      "timestamp": 19.352666666666668,
+      "vehicles": 47,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 609,
+      "timestamp": 20.3203,
+      "vehicles": 62,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 638,
+      "timestamp": 21.287933333333335,
+      "vehicles": 60,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 667,
+      "timestamp": 22.255566666666667,
+      "vehicles": 63,
+      "congestion": "LOW"
+    },
+    {
+      "frame_number": 696,
+      "timestamp": 23.223200000000002,
+      "vehicles": 55,
+      "congestion": "LOW"
+    }
+  ],
+  "processing_end": "2025-11-02T11:22:19.695357",
+  "success_rate": 100.0
+}

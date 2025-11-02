@@ -1,0 +1,12 @@
+names:
+- car
+- truck
+- bus
+- motorcycle
+- bicycle
+- van
+- trailer
+nc: 7
+path: C:\Users\atusa\OneDrive\Desktop\Aerial VH\aerial_vehicle_detection\data\sample_dataset
+train: images/train
+val: images/val

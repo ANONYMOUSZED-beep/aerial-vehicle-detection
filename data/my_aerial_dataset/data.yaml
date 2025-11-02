@@ -1,0 +1,8 @@
+# Aerial Vehicle Detection Dataset
+path: C:/Users/atusa/OneDrive/Desktop/Aerial VH/aerial_vehicle_detection/data/my_aerial_dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 7
+names: ['car', 'truck', 'bus', 'motorcycle', 'bicycle', 'van', 'trailer']

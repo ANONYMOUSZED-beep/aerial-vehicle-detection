@@ -1,0 +1,36 @@
+# RF-DETR Aerial Vehicle Detection Dependencies
+
+# Core ML Libraries  
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Hugging Face Ecosystem
+transformers>=4.35.0
+accelerate>=0.21.0
+datasets>=2.14.0
+huggingface-hub>=0.17.0
+tokenizers>=0.14.0
+safetensors>=0.3.0
+
+# Computer Vision
+opencv-python>=4.8.0
+pillow>=9.0.0
+supervision>=0.21.0
+
+# Scientific Computing
+numpy>=1.21.0
+scipy>=1.10.0
+pandas>=1.5.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.64.0
+pyyaml>=6.0
+requests>=2.28.0
+
+# Authentication for gated models
+huggingface-hub[cli]>=0.17.0

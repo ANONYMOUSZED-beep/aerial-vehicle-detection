@@ -1,0 +1,29 @@
+{
+  "model_config": {
+    "available_models": [
+      "yolov8n.pt",
+      "yolov8s.pt",
+      "yolov8m.pt"
+    ],
+    "default_model": "yolov8n.pt",
+    "input_size": 640
+  },
+  "classes": [
+    "car",
+    "truck",
+    "bus",
+    "motorcycle",
+    "bicycle",
+    "van",
+    "trailer"
+  ],
+  "training": {
+    "epochs": 100,
+    "batch_size": 16,
+    "learning_rate": 0.01
+  },
+  "inference": {
+    "confidence_threshold": 0.25,
+    "iou_threshold": 0.45
+  }
+}

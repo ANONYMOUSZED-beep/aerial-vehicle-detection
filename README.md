@@ -673,9 +673,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{aerial_vehicle_detection,
   title={Aerial Vehicle Detection using YOLOv8},
-  author={Your Name},
+  author={Arun},
   year={2024},
-  url={https://github.com/yourusername/aerial-vehicle-detection}
+  url={https://github.com/ANONYMOUSZED-beep/aerial-vehicle-detection}
 }
 ```
 
@@ -685,7 +685,7 @@ If you use this code in your research, please cite:
 
 - **Author**: Arun
 - **Email**: atusarun@gmail.com
-- **Project Link**: [https://github.com/yourusername/aerial-vehicle-detection](https://github.com/yourusername/aerial-vehicle-detection)
+- **Project Link**: [https://github.com/ANONYMOUSZED-beep/aerial-vehicle-detection](https://github.com/ANONYMOUSZED-beep/aerial-vehicle-detection)
 
 ---
 
